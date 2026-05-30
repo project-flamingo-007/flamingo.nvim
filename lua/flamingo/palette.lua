@@ -1,4 +1,4 @@
-local options = require("rose-pine.config").options
+local options = require("flamingo.config").options
 local variants = {
 	main = {
 		_nc = "#16141f",
@@ -38,6 +38,27 @@ local variants = {
 		highlight_low = "#2a283e",
 		highlight_med = "#44415a",
 		highlight_high = "#56526e",
+		none = "NONE",
+	},
+	flamingo = {
+		darker_bg = "#181818", -- optional
+		_nc = "#1c1c1c",
+		base = "#1c1c1c",
+		surface = "#262626",
+		overlay = "#303030",
+		muted = "#5f5f87",
+		subtle = "#8787af",
+		text = "#d7d7ff",
+		love = "#ff5f87",
+		gold = "#ffaf87",
+		rose = "#ffafaf",
+		pine = "#5f8787",
+		foam = "#afd7d7",
+		iris = "#d7afd7",
+		leaf = "#87afaf",
+		highlight_low = "#262626",
+		highlight_med = "#444444",
+		highlight_high = "#585858",
 		none = "NONE",
 	},
 	dawn = {
