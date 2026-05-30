@@ -1,6 +1,6 @@
 # flamingo.nvim
 
-based off primeagen's tmux broken rose-pine colorscheme
+based off primeagen's broken tmux rose-pine colorscheme
 
 ```lua
 return {
