@@ -2,6 +2,8 @@
 
 based off primeagen's broken tmux rose-pine colorscheme
 
+![flamingo.nvim_preview.png](./assets/flamingo.nvim_preview.png)
+
 ```lua
 return {
     "rb152080/flamingo.nvim",

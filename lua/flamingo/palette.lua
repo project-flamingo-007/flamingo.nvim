@@ -41,7 +41,6 @@ local variants = {
 		none = "NONE",
 	},
 	flamingo = {
-		darker_bg = "#181818", -- optional
 		_nc = "#1c1c1c",
 		base = "#1c1c1c",
 		surface = "#262626",
