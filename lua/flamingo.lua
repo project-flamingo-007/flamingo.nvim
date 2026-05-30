@@ -1231,7 +1231,7 @@ function M.colorscheme(variant)
 
 	if variant == "dawn" then
 		vim.o.background = "light"
-	elseif variant == "main" or variant == "moon" then
+	elseif variant == "main" or variant == "moon" or variant == "flamingo" then
 		vim.o.background = "dark"
 	end
 

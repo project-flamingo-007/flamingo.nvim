@@ -10,11 +10,11 @@ config.options = {
 	---Set the desired variant: "auto" will follow the vim background,
 	---defaulting to `dark_variant` or "main" for dark and "dawn" for light.
 	---@type "auto" | Variant
-	variant = "auto",
+	variant = "flamingo",
 
 	---Set the desired dark variant when `options.variant` is set to "auto".
 	---@type Variant
-	dark_variant = "main",
+	dark_variant = "flamingo",
 
 	---Differentiate between active and inactive windows and panels.
 	dim_inactive_windows = false,
