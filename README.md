@@ -6,7 +6,7 @@ neovim colorscheme based off primeagen's broken tmux rose-pine colorscheme
 
 ```lua
 return {
-	"project-flamingo-007/flamingo.nvim",
+	"rb152080/flamingo.nvim",
     name = "flamingo.nvim",
     config = function()
         -- optional (my preferences)
